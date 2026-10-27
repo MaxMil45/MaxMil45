@@ -1,21 +1,19 @@
-👋 Hi, I’m @MaxMil45
+# Max Murphy
 
-👀 I’m interested in...
-Exploring new programming languages, fitness at the gym, and diving into exciting programming projects.
+Software Engineering Student
 
-🌱 I’m currently learning...
-HTML, CSS, SQL, Python, and Dart. I also have some knowledge in C#, and I'm eager to expand my programming skills further.
+---
 
-💞️ I’m looking to collaborate on...
-Exciting programming projects where I can contribute and learn alongside other passionate developers.
+### About Me
 
-📫 How to reach me...
-Feel free to reach out to me via email at mmurphy4562@gmail.com
+* **Interests:** Exploring new programming languages, gym and fitness, and building software projects.
+* **Currently Learning:** C#, HTML, CSS, SQL, Python, Dart, and JavaScript.
+* **Collaboration:** Looking to contribute to software projects alongside other developers.
 
-😄 Pronouns: ...
-He/Him
+---
 
-⚡ Fun fact: ...
-I'm a software engineering student at university, and I love the challenge of solving complex problems with code!
+### Additional Details
 
-
+* **Pronouns:** He/Him
+* **Fun Fact:** I thrive on the challenge of solving complex problems through code.
+* **Contact:** [mmurphy4562@gmail.com](mailto:mmurphy4562@gmail.com)
